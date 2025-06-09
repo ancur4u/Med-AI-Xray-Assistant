@@ -109,7 +109,7 @@ This AI tool is designed for **educational and screening purposes only**. It sho
 
 We welcome contributions from the medical and AI community!
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [Contributing.md](Contributing.md) for detailed guidelines.
 
 ## 📜 License
 
